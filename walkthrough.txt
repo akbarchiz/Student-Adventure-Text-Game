@@ -1,0 +1,14 @@
+Type help in the prompt to get list of commands
+Walkthrough:
+1. Go to the university and speak with Ivan. He hands you the weapon.
+2. Go to the basketball court and murder Bryan.
+3. Now that you have money, go to "Labofarm" and buy chemicals.
+4. Go to the lab and make some fuel.
+5. Proceed to the Launch area to get your prize.
+
+Features:
+1. It is fine if the player murders Oliver. As stated in the narrative, the rocket design is complete and all that is required for launch is fuel.
+2. Because it is an open world, the player has the ability to kill anyone.
+3. If you kill the seller in Labofarm, you will be arrested immediately.
+4. Your desired level rises by one for each kill.
+5. If your desired level is 5, you are arrested.
